@@ -1,0 +1,318 @@
+{"data": [
+        {"tag": "greeting",
+         "questions": ["Good morning", "Hi there", "Hey, guy","Is anyone there?","Hey","Hola", "Hello","How are you"],
+         "responses": ["Hi! I'm Doraemon, how can I help?", "Whoosh, Doraemon's coming! Nice to meet you!", "Hey, friend! I'm your dear Doraemon, good to see you again!","Hi there, thanks for asking! Doraemon's ready!"],
+         "context": [""]
+        },
+        {"tag": "who",
+         "questions": ["What's your name?", "who are you?","who are U", "who made you?","who's your father?","who is there?", "Who do you like best","Who is your favorite person"],
+         "responses": ["My name is Doraemon, and I used to be a robot in a cartoon. I love my second-generation founder-Doraemon Group!"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "questions": ["Bye","See U", "See you later", "Goodbye","Good night", "Have a good day", "Nice chatting to you, bye", "I am appreciate! bye","Till next time"],
+         "responses": ["See you! Doraemon's always there.", "I will miss you! Please come and see me often!", "Thank you for asking! Have a nice day!","Hope I solved your problem! Bye!","Good bye! what a diligent and lovely guy!"],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "questions": ["Thanks", "Thx", "Cool", "Thank you", "Okay","That's great", "That's helpful", "It's useful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["You are welcome!","Happy to help!", "Any time!", "My pleasure!"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "questions": ["Do you know","what's the meaning of","what's","give me some info about"],
+         "responses": ["Sorry, I have no idea.", "I'm afraid I don't know, I will study hard and help you later.", "Sorry, I'm afraid I don't know."],
+         "context": [""]
+        },
+        {"tag": "options",
+         "questions": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+         "responses": ["I can guide you through some financial items, like the meaning of corporate finance."],
+         "context": [""]
+        },
+         {"tag": "finance_search",
+         "questions": ["What is finance", "Find finance", "What is finance about", "Finance", "Can you talk about finance" ],
+         "responses": ["Finance is the management of money, particularly in relation to companies, organisations, or governments. Specifically, it deals with the questions of how an individual, company or government acquires the money needed - called capital in the company context - and how they then spend or invest that money. "],
+         "context": [""]
+        },
+        {"tag": "finance theories_search",
+         "questions": ["What is finance theories", "Find finance theories", "What are finance theories about", "finance theories", "Can you talk about finance theories" ],
+         "responses": ["Core finance theories can largely be divided between the following categories: financial economics, mathematical finance and valuation theory."],
+         "context": [""]
+        },
+        {"tag": "Corporate finance_search",
+         "questions": ["What is Corporate finance", "Find Corporate finance", "What is Corporate finance about", "Corporate finance", "Can you talk about Corporate finance" ],
+         "responses": ["Corporate finance deals with the sources of funding and the capital structure of corporations, the actions that managers take to increase the value of the firm to the shareholders, and the tools and analysis used to allocate financial resources."],
+         "context": [""]
+        },
+        {"tag": "Behavioral finance",
+         "questions": ["What is Behavioral finance", "Find Behavioral finance", "What is Behavioral finance about", "Behavioral finance", "Can you talk about Behavioral finance" ],
+         "responses": ["Behavioral finance studies how the psychology of investors or managers affects financial decisions and markets when making a decision that can impact either negatively or positively on one of their areas. Behavioral finance has grown over the last few decades to become central and very important to finance."],
+         "context": [""]
+        },
+        {"tag": "Equity_search",
+         "questions": ["What is Equity", "Find Equity", "What is Equity about", "Equity", "Can you talk about Equity" ],
+         "responses": ["Equity is ownership of assets that may have debts or other liabilities attached to them. Equity is measured for accounting purposes by subtracting liabilities from the value of an asset. For example, if someone owns a car worth $9,000 and owes $3,000 on the loan used to buy the car, then the difference of $6,000 is equity. Equity can apply to a single asset, such as a car or house, or to an entire business entity. Selling equity in a business is an essential method for acquiring cash needed to start up and expand operations."],
+         "context": [""]
+        },
+        {"tag": "Accounting_search",
+         "questions": ["What is Accounting", "Find Accounting", "What is Accounting about", "Accounting", "Can you talk about Accounting" ],
+         "responses": ["Financial accounting defines the equity of a business as the net balance of its assets reduced by its liabilities. The fundamental accounting equation requires that the total of liabilities and equity is equal to the total of all assets at the close of each accounting period. To satisfy this requirement, all events that affect total assets and total liabilities unequally must eventually be reported as changes in equity. Businesses summarize their equity in a financial statement known as the balance sheet (or statement of net position) which shows the total assets, the specific equity balances, and the total liabilities and equity (or deficit)."],
+         "context": [""]
+        },
+        {"tag": "Government bond_search",
+         "questions": ["What is Government bond", "Find Government bond", "What is Government bond about", "Government bond", "Can you talk about Government bond" ],
+         "responses": ["A government bond or sovereign bond is a bond issued by a national government, generally with a promise to pay periodic interest payments called coupon payments and to repay the face value on the maturity date. The aim of a government bond is to support government spending. Government bonds are usually denominated in the country's own currency, in which case the government cannot be forced to default, although it may choose to do so. If a government is close to default on its debt the media often refer to this as a sovereign debt crisis."],
+         "context": [""]
+        },
+        {"tag": "Debt_search",
+         "questions": ["What is Debt", "Find Debt", "What is Debt about", "Debt", "Can you talk about Debt" ],
+         "responses": ["Debt is an obligation that requires one party, the debtor, to pay money or other agreed-upon value to another party, the creditor. Debt is a deferred payment, or series of payments, which differentiates it from an immediate purchase. The debt may be owed by sovereign state or country, local government, company, or an individual. Commercial debt is generally subject to contractual terms regarding the amount and timing of repayments of principal and interest. Loans, bonds, notes, and mortgages are all types of debt.  The term can also be used metaphorically to cover moral obligations and other interactions not based on economic value. For example, in Western cultures, a person who has been helped by a second person is sometimes said to owe a 'debt of gratitude' to the second person."],
+         "context": [""]
+        },
+        {"tag": "Preferred stock_search",
+         "questions": ["What is Preferred stock", "Find Preferred stock", "What is Preferred stock about", "Preferred stock", "Can you talk about Preferred stock" ],
+         "responses": ["Preferred stock is an equity security which may have any combination of features not possessed by common stock including properties of both an equity and a debt instrument, and is generally considered a hybrid instrument. Preferreds are senior (i.e. higher ranking) to common stock, but subordinate to bonds in terms of claim (or rights to their share of the assets of the company)."],
+         "context": [""]
+        },
+        {"tag": "Working capital_search",
+         "questions": ["What is Working capital", "Find Working capital", "What is Working capital about", "Working capital", "Can you talk about Working capital" ],
+         "responses": ["Working capital is the amount of funds which are necessary to an organization to continue its ongoing business operations, until the firm is reimbursed through payments for the goods or services it has delivered to its customers.  Working capital is measured through the difference between resources in cash or readily convertible into cash (Current Assets), and cash requirements (Current Liabilities). As a result, capital resource allocations relating to working capital are always current, i.e. short-term. "],
+         "context": [""]
+        },
+        {"tag": "Inventory_search",
+         "questions": ["What is Inventory", "Find Inventory", "What is Inventory about", "Inventory", "Can you talk about Inventory" ],
+         "responses": ["Inventory (American English) or stock (British English) is the goods and materials that a business holds for the ultimate goal of resale (or repair)."],
+         "context": [""]
+        },
+        {"tag": "Cash flow_search",
+         "questions": ["What is Cash flow", "Find Cash flow", "What is Cash flow about", "Cash flow", "Can you talk about Cash flow" ],
+         "responses": ["A cash flow is a real or virtual movement of money."],
+         "context": [""]
+        },
+        {"tag": "Value_search",
+         "questions": ["What is Value", "Find Value", "What is Value about", "Value", "Can you talk about Value" ],
+         "responses": ["Economic value is a measure of the benefit provided by a good or service to an economic agent. It is generally measured relative to units of currency."],
+         "context": [""]
+        },
+        {"tag": "Business_search",
+         "questions": ["What is Business", "Find Business", "What is Business about", "Business", "Can you talk about Business" ],
+         "responses": ["Business is the activity of making one's living or making money by producing or buying and selling products (such as goods and services).Simply put, it is 'any activity or enterprise entered into for profit. It does not mean it is a company, a corporation, partnership, or have any such formal organization, but it can range from a street peddler to General Motors.'"],
+         "context": [""]
+        },
+        {"tag": "Financial risk_search",
+         "questions": ["What is Financial risk", "Find Financial risk", "What is Financial risk about", "Financial risk", "Can you talk about Financial risk" ],
+         "responses": ["Financial risk is any of various types of risk associated with financing, including financial transactions that include company loans in risk of default. Often it is understood to include only downside risk, meaning the potential for financial loss and uncertainty about its extent."],
+         "context": [""]
+        },
+        {"tag": "Credit risk_search",
+         "questions": ["What is Credit risk", "Find Credit risk", "What is Credit risk about", "Credit risk", "Can you talk about Credit risk" ],
+         "responses": ["A credit risk is the risk of default on a debt that may arise from a borrower failing to make required payments. In the first resort, the risk is that of the lender and includes lost principal and interest, disruption to cash flows, and increased collection costs. The loss may be complete or partial. In an efficient market, higher levels of credit risk will be associated with higher borrowing costs.  Because of this, measures of borrowing costs such as yield spreads can be used to infer credit risk levels based on assessments by market participants."],
+         "context": [""]
+        },
+        {"tag": "Volatility_search",
+         "questions": ["What is Volatility", "Find Volatility", "What is Volatility about", "Volatility", "Can you talk about Volatility" ],
+         "responses": ["In finance, volatility (symbol sigma) is the degree of variation of a trading price series over time, usually measured by the standard deviation of logarithmic returns."],
+         "context": [""]
+        },
+        {"tag": "Inflation_search",
+         "questions": ["What is Inflation", "Find Inflation", "What is Inflation about", "Inflation", "Can you talk about Inflation" ],
+         "responses": ["In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time."],
+         "context": [""]
+        },
+        {"tag": "Hedge_search",
+         "questions": ["What is Hedge", "Find Hedge", "What is Hedge about", "Hedge", "Can you talk about Hedge" ],
+         "responses": ["A hedge is an investment position intended to offset potential losses or gains that may be incurred by a companion investment. A hedge can be constructed from many types of financial instruments, including stocks, exchange-traded funds, insurance, forward contracts, swaps, options, gambles,many types of over-the-counter and derivative products, and futures contracts."],
+         "context": [""]
+        },
+        {"tag": "Shareholder_search",
+         "questions": ["What is Shareholder", "Find Shareholder", "What is Shareholder about", "Shareholder", "Can you talk about Shareholder" ],
+         "responses": ["A shareholder (also known as stockholder) is an individual or institution (including a corporation) that legally owns one or more shares of stock in a public or private corporation. Shareholders may be referred to as members of a corporation. By law, a person is not a shareholder in a corporation until their name and other details are entered in the corporation's register of shareholders or members."],
+         "context": [""]
+        },
+        {"tag": "Price_search",
+         "questions": ["What is Price", "Find Price", "What is Price about", "Price", "Can you talk about Price" ],
+         "responses": ["A price is the (usually not negative) quantity of payment or compensation given by one party to another in return for one unit of goods or services. A price is influenced by both production costs and demand for the product. A price may be determined by a monopolist or may be imposed on the firm by market conditions."],
+         "context": [""]
+        },
+        {"tag": "Interest rate_search",
+         "questions": ["What is Interest rate", "Find Interest rate", "What is Interest rate about", "Interest rate", "Can you talk about Interest rate" ],
+         "responses": ["An interest rate is the amount of interest due per period, as a proportion of the amount lent, deposited or borrowed (called the principal sum). The total interest on an amount lent or borrowed depends on the principal sum, the interest rate, the compounding frequency, and the length of time over which it is lent, deposited or borrowed."],
+         "context": [""]
+        },
+        {"tag": "Efficient-market hypothesis_search",
+         "questions": ["What is Efficient-market hypothesis", "Find Efficient-market hypothesis", "What is Efficient-market hypothesis about", "Efficient-market hypothesis", "Can you talk about Efficient-market hypothesis" ],
+         "responses": ["The efficient-market hypothesis (EMH) is a hypothesis in financial economics that states that asset prices reflect all available information. A direct implication is that it is impossible to 'beat the market' consistently on a risk-adjusted basis since market prices should only react to new information.  Since risk adjustment is central to the EMH, and yet the EMH does not specify a model of risk, the EMH is untestable. As a result, research in financial economics since at least the 1990s has focused on market anomalies, that is, deviations from specific models of risk."],
+         "context": [""]
+        },
+        {"tag": "Certainty_search",
+         "questions": ["What is Certainty", "Find Certainty", "What is Certainty about", "Certainty", "Can you talk about Certainty" ],
+         "responses": ["Certainty is an epistemic property of beliefs closely related to knowledge. There are many different conceptions of certainty, but none that has achieved consensus."],
+         "context": [""]
+        },
+        {"tag": "Portfolio_search",
+         "questions": ["What is Portfolio", "Find Portfolio", "What is Portfolio about", "Can you talk about Portfolio" ],
+         "responses": ["In finance, a portfolio is a collection of investments held by an investment company, hedge fund, financial institution or individual."],
+         "context": [""]
+        },
+        {"tag": "Forward contracts_search",
+         "questions": ["What is Forward contracts", "Find Forward contracts", "What is Forward contracts about", "Forward contracts", "Can you talk about Forward contracts" ],
+         "responses": ["A forward contract is an agreement between two parties to exchange at a fixed future date a given quantity of a commodity for a specific price defined when the contract is finalized. The fixed price is also called forward price. Such forward contracts began as a way of reducing pricing risk in food and agricultural product markets. By agreeing in advance on a price for a future delivery, farmers were able protect their output against a possible fall of market prices and in contrast buyers were able to protect themselves against's a possible rise of market prices."],
+         "context": [""]
+        },
+        {"tag": "Futures contract_search",
+         "questions": ["What is Futures contract", "Find Futures contract", "What is Futures contract about", "Futures contract", "Can you talk about Futures contract" ],
+         "responses": ["Futures contracts are standardized forward contracts that are transacted through an exchange. In futures contracts the buyer and the seller stipulate product, grade, quantity and location and leaving price as the only variable."],
+         "context": [""]
+        },
+        {"tag": "Swaps_search",
+         "questions": ["What is Swaps", "Find Swaps", "What is Swaps about", "Swaps", "Can you talk about Swaps" ],
+         "responses": ["A swap is a derivative in which counterparties exchange the cash flows of one party's financial instrument for those of the other party's financial instrument. They were introduced in the 1970s."],
+         "context": [""]
+        },
+        {"tag": "Private equity_search",
+         "questions": ["What is Private equity", "Find Private equity", "What is Private equity about", "Private equity", "Can you talk about Private equity" ],
+         "responses": ["Private equity (PE) typically refers to investment funds, generally organized as limited partnerships, that buy and restructure companies that are not publicly traded.Private equity is, strictly speaking, a type of equity and one of the asset classes consisting of equity securities and debt in operating companies that are not publicly traded on a stock exchange. However, the term has come to be used to describe the business of taking a company into private ownership in order to restructure it before selling it again at a hoped-for profit."],
+         "context": [""]
+        },
+        {"tag": "Venture capital_search",
+         "questions": ["What is Venture capital", "Find Venture capital", "What is Venture capital about", "Venture capital", "Can you talk about Venture capital" ],
+         "responses": ["Venture capital or VC is a broad subcategory of private equity that refers to equity investments made, typically in less mature companies, for the launch of a seed or startup company, early-stage development, or expansion of a business. Venture investment is most often found in the application of new technology, new marketing concepts and new products that do not have a proven track record or stable revenue streams."],
+         "context": [""]
+        },
+        {"tag": "Real estate_search",
+         "questions": ["What is Real estate", "Find Real estate", "What is Real estate about", "Real estate", "Can you talk about Real estate" ],
+         "responses": ["Real estate is property consisting of land and the buildings on it, along with its natural resources such as crops, minerals or water; immovable property of this nature; an interest vested in this (also) an item of real property, (more generally) buildings or housing in general."],
+         "context": [""]
+        },
+        {"tag": "Stock market_search",
+         "questions": ["What is Stock market", "Find Stock market", "What is Stock market about", "Stock market", "Can you talk about Stock market" ],
+         "responses": ["A stock market, equity market or share market is the aggregation of buyers and sellers of stocks (also called shares), which represent ownership claims on businesses; these may include securities listed on a public stock exchange, as well as stock that is only traded privately, such as shares of private companies which are sold to investors through equity crowdfunding platforms. Investment in the stock market is most often done via stockbrokerages and electronic trading platforms. Investment is usually made with an investment strategy in mind."],
+         "context": [""]
+        },
+        {"tag": "Investor_search",
+         "questions": ["What is Investor", "Find Investor", "What is Investor about", "Investor", "Can you talk about Investor" ],
+         "responses": ["An investor is a person that allocates capital with the expectation of a future financial return or to gain an advantage. Types of investments include: equity, debt securities, real estate, currency, commodity, token, derivatives such as put and call options, futures, forwards, etc. This definition makes no distinction between the investors in the primary and secondary markets.  That is, someone who provides a business with capital and someone who buys a stock are both investors.  An investor who owns a stock is a shareholder."],
+         "context": [""]
+        },
+        {"tag": "Retail_search",
+         "questions": ["What is Retail", "Find Retail", "What is Retail about", "Retail", "Can you talk about Retail" ],
+         "responses": ["Retail is the process of selling consumer goods or services to customers through multiple channels of distribution to earn a profit. Retailers satisfy demand identified through a supply chain. The term 'retailer' is typically applied where a service provider fills the small orders of many individuals, who are end-users, rather than large orders of a small number of wholesale, corporate or government clientele. Shopping generally refers to the act of buying products. Sometimes this is done to obtain final goods, including necessities such as food and clothing; sometimes it takes place as a recreational activity. Recreational shopping often involves window shopping and browsing: it does not always result in a purchase."],
+         "context": [""]
+        },
+        {"tag": "Bond_search",
+         "questions": ["What is Bond", "Find Bond", "What is Bond about", "Bond", "Can you talk about Bond" ],
+         "responses": ["In finance, a bond is an instrument of indebtedness of the bond issuer to the holders."],
+         "context": [""]
+        },
+        {"tag": "Coupon_search",
+         "questions": ["What is Coupon", "Find Coupon", "What is Coupon about", "Coupon", "Can you talk about Coupon" ],
+         "responses": ["The coupon is the interest rate that the issuer pays to the holder. For fixed rate bonds, the coupon is fixed throughout the life of the bond. For floating rate notes, the coupon varies throughout the life of the bond and is based on the movement of a money market reference rate (often LIBOR)."],
+         "context": [""]
+        },
+        {"tag": "Yield_search",
+         "questions": ["What is Yield", "Find Yield", "What is Yield about", "Yield", "Can you talk about Yield" ],
+         "responses": ["The yield is the rate of return received from investing in the bond."],
+         "context": [""]
+        },
+        {"tag": "Cash_search",
+         "questions": ["What is Cash", "Find Cash", "What is Cash about", "Cash", "Can you talk about Cash" ],
+         "responses": ["In economics, cash is money in the physical form of currency, such as banknotes and coins.  In bookkeeping and finance, cash is current assets comprising currency or currency equivalents that can be accessed immediately or near-immediately (as in the case of money market accounts). Cash is seen either as a reserve for payments, in case of a structural or incidental negative cash flow or as a way to avoid a downturn on financial markets."],
+         "context": [""]
+        },
+        {"tag": "Derivative_search",
+         "questions": ["What is Derivative", "Find Derivative", "What is Derivative about", "Derivative", "Can you talk about Derivative" ],
+         "responses": ["In finance, a derivative is a contract that derives its value from the performance of an underlying entity."],
+         "context": [""]
+        },
+        {"tag": "Indemnity_search",
+         "questions": ["What is Indemnity", "Find Indemnity", "What is Indemnity about", "Indemnity", "Can you talk about Indemnity" ],
+         "responses": ["Indemnity is a contractual obligation of one party (indemnifier) to compensate the loss incurred to the other party (indemnity holder) due to the acts of the indemnitor or any other party. The duty to indemnify is usually, but not always, coextensive with the contractual duty to 'hold harmless' or 'save harmless'.  In contrast, a 'guarantee' is an obligation of one party assuring the other party that guarantor will perform the promise of the third party if it defaults."],
+         "context": [""]
+        },
+        {"tag": "Insurance_search",
+         "questions": ["What is Insurance", "Find Insurance", "What is Insurance about", "Insurance", "Can you talk about Insurance" ],
+         "responses": ["Insurance is a means of protection from financial loss.  It is a form of risk management, primarily used to hedge against the risk of a contingent or uncertain loss.An entity which provides insurance is known as an insurer, insurance company, insurance carrier or underwriter.  A person or entity who buys insurance is known as an insured or as a policyholder. The insurance transaction involves the insured assuming a guaranteed and known relatively small loss in the form of payment to the insurer in exchange for the insurer's promise to compensate the insured in the event of a covered loss.  The loss may or may not be financial, but it must be reducible to financial terms, and usually involves something in which the insured has an insurable interest established by ownership, possession, or pre-existing relationship."],
+         "context": [""]
+        },
+        {"tag": "Loan_search",
+         "questions": ["What is Loan", "Find Loan", "What is Loan about", "Loan", "Can you talk about Loan" ],
+         "responses": ["In finance, a loan is the lending of money by one or more individuals, organizations, or other entities to other individuals, organizations etc. The recipient (i.e., the borrower) incurs a debt and is usually liable to pay interest on that debt until it is repaid as well as to repay the principal amount borrowed."],
+         "context": [""]
+        },
+        {"tag": "Stock_search",
+         "questions": ["What is Stock", "Find Stock", "What is Stock about", "Stock", "Can you talk about Stock" ],
+         "responses": ["Stock (also capital stock) of a corporation, is all of the shares into which ownership of the corporation is divided. In American English, the shares are collectively known as 'stock'. A single share of the stock represents fractional ownership of the corporation in proportion to the total number of shares. This typically entitles the stockholder to that fraction of the company's earnings, proceeds from liquidation of assets (after discharge of all senior claims such as secured and unsecured debt), or voting power, often dividing these up in proportion to the amount of money each stockholder has invested.  Not all stock is necessarily equal, as certain classes of stock may be issued for example without voting rights, with enhanced voting rights, or with a certain priority to receive profits or liquidation proceeds before or after other classes of shareholders."],
+         "context": [""]
+        },
+        {"tag": "Security _search",
+         "questions": ["What is Security ", "Find Security ", "What is Security  about", "Security ", "Can you talk about Security " ],
+         "responses": ["A security is a tradable financial asset. The term commonly refers to any form of financial instrument, but its legal definition varies by jurisdiction. In some countries and languages the term 'security' is commonly used in day-to-day parlance to mean any form of financial instrument, even though the underlying legal and regulatory regime may not have such a broad definition. In some jurisdictions the term specifically excludes financial instruments other than equities and fixed income instruments. In some jurisdictions it includes some instruments that are close to equities and fixed income, e.g., equity warrants."],
+         "context": [""]
+        },
+        {"tag": "Tax_search",
+         "questions": ["What is Tax", "Find Tax", "What is Tax about", "Tax", "Can you talk about Tax" ],
+         "responses": ["A tax is a compulsory financial charge or some other type of levy imposed upon a taxpayer (an individual or legal entity) by a governmental organization in order to fund various public expenditures. A failure to pay, along with evasion of or resistance to taxation, is punishable by law. Taxes consist of direct or indirect taxes and may be paid in money or as its labour equivalent. The first known taxation took place in Ancient Egypt around 3000¨C2800 BC."],
+         "context": [""]
+        },
+        {"tag": "Risk_search",
+         "questions": ["What is Risk", "Find Risk", "What is Risk", "Risk", "Can you talk about Risk" ],
+         "responses": ["Although a national government may choose to default for political reasons, lending to a national government in the country's own sovereign currency is generally considered 'risk free' and is done at a so-called 'risk-free interest rate'. This is because the debt and interest can be repaid by raising tax receipts (either by economic growth or raising tax revenue), a reduction in spending, or by creating more money. However, it is widely considered that this would increase inflation and thus reduce the value of the invested capital (at least for debt not linked to inflation). This has happened many times throughout history, and a typical example of this is provided by Weimar Germany of the 1920s, which suffered from hyperinflation when the government massively printed money, because of its inability to pay the national debt deriving from the costs of World War I."],
+         "context": [""]
+        },
+        {"tag": " Investment banking_search",
+         "questions": ["What is  Investment banking", "Find  Investment banking", "What is  Investment banking", " Investment banking", "Can you talk about  Investment banking" ],
+         "responses": ["An investment bank is a financial services company or corporate division that engages in advisory-based financial transactions on behalf of individuals, corporations, and governments. Traditionally associated with corporate finance, such a bank might assist in raising financial capital by underwriting or acting as the client's agent in the issuance of securities. An investment bank may also assist companies involved in mergers and acquisitions (M&A) and provide ancillary services such as market making, trading of derivatives and equity securities, and FICC services (fixed income instruments, currencies, and commodities). Most investment banks maintain prime brokerage and asset management departments in conjunction with their investment research businesses. As an industry, it is broken up into the Bulge Bracket (upper tier), Middle Market (mid-level businesses), and boutique market (specialized businesses)."],
+         "context": [""]
+        },
+        {"tag": "Bank_search",
+         "questions": ["What is Bank", "Find Bank", "What is Bank", "Bank", "Can you talk about Bank" ],
+         "responses": ["A bank is a financial institution that accepts deposits and recurring accounts from the people and creates Demand Deposit. Lending activities can be performed either directly or indirectly through capital markets. Due to their importance in the financial stability of a country, banks are highly regulated in most countries. Most nations have institutionalized a system known as fractional reserve banking under which banks hold liquid assets equal to only a portion of their current liabilities. In addition to other regulations intended to ensure liquidity, banks are generally subject to minimum capital requirements based on an international set of capital standards, known as the Basel Accords."],
+         "context": [""]
+        },
+        {"tag": "Investment_search",
+         "questions": ["What is Investment", "Find Investment", "What is Investment", "Investment", "Can you talk about Investment" ],
+         "responses": ["To invest is to allocate money in the expectation of some benefit in the future."],
+         "context": [""]
+        },
+        {"tag": "Liability_search",
+         "questions": ["What is Liability", "Find Liability", "What is Liability", "Liability", "Can you talk about Liability" ],
+         "responses": ["In financial accounting, a liability is defined as the future sacrifices of economic benefits that the entity is obliged to make to other entities as a result of past transactions or other past events, the settlement of which may result in the transfer or use of assets, provision of services or other yielding of economic benefits in the future."],
+         "context": [""]
+        },
+        {"tag": "Valuation _search",
+         "questions": ["What is Valuation ", "Find Valuation  ", "What is Valuation ", "Valuation ", "Can you talk about Valuation " ],
+         "responses": ["In finance, valuation is the process of determining the present value (PV) of an asset. Valuations can be done on assets (for example, investments in marketable securities such as stocks, options, business enterprises, or intangible assets such as patents and trademarks) or on liabilities (e.g., bonds issued by a company). Valuations are needed for many reasons such as investment analysis, capital budgeting, merger and acquisition transactions, financial reporting, taxable events to determine the proper tax liability."],
+         "context": [""]
+        },
+        {"tag": "Time value of money_search",
+         "questions": ["What is Time value of money", "Find Time value of money", "What is Time value of money about", "Time value of money", "Can you talk about Time value of money" ],
+         "responses": ["The time value of money is the greater benefit of receiving money now rather than an identical sum later. It is founded on time preference."],
+         "context": [""]
+        },
+        {"tag": "Present value_search",
+         "questions": ["What is Present value", "Find Present value", "What is Present value about", "Present value", "Can you talk about Present value" ],
+         "responses": ["In economics and finance, present value (PV), also known as present discounted value, is the value of an expected income stream determined as of the date of valuation. The present value is usually less than the future value because money has interest-earning potential, a characteristic referred to as the time value of money, except during times of zero- or negative interest rates, when the present value will be equal or more than the future value."],
+         "context": [""]
+        },
+        {"tag": "Discounted cash flow_search",
+         "questions": ["What is Discounted cash flow", "Find Discounted cash flow", "What is Discounted cash flow about", "Discounted cash flow", "Can you talk about Discounted cash flow" ],
+         "responses": ["In finance, discounted cash flow (DCF) analysis is a method of valuing a project, company, or asset using the concepts of the time value of money. Discounted cash flow analysis is widely used in investment finance, real estate development, corporate financial management and patent valuation. It was used in industry as early as the 1700s or 1800s, widely discussed in financial economics in the 1960s, and became widely used in U.S. courts in the 1980s and 1990s."],
+         "context": [""]
+        },
+        {"tag": "Management_search",
+         "questions": ["What is Management", "Find Management", "What is Management about ", "Management", "Can you talk about Management" ],
+         "responses": ["Management (or managing) is the administration of an organization, whether it is a business, a not-for-profit organization, or government body. Management includes the activities of setting the strategy of an organization and coordinating the efforts of its employees (or of volunteers) to accomplish its  objectives through the application of available resources, such as financial, natural, technological, and human resources. The term 'management' may also refer to those people who manage an organization - individually: managers."],
+         "context": [""]
+        },
+        {"tag": "Economics_search",
+         "questions": ["What is Economics", "Find Economics", "What is Economics about", "Economics", "Can you talk about Economics" ],
+         "responses": ["Economics is the social science that studies the production, distribution, and consumption of goods and services."],
+         "context": [""]
+        },
+        {"tag": "Expense_search",
+         "questions": ["What is Expense", "Find Expense", "What is Expense about", "Expense", "Can you talk about Expense" ],
+         "responses": ["Expenditure is an outflow of money, or any form of fortune in general, to another person or group to pay for an item or service, or for a category of costs. For a tenant, rent is an expense. For students or parents, tuition is an expense. Buying food, clothing, furniture or an automobile is often referred to as an expense. An expense is a cost that is 'paid' or 'remitted', usually in exchange for something of value. Something that seems to cost a great deal is 'expensive'. Something that seems to cost little is 'inexpensive'. 'Expenses of the table' are expenses of dining, refreshments, a feast, etc."],
+         "context": [""]
+        }
+   ]
+}
